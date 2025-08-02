@@ -1,3 +1,11 @@
+
+## 0.5.0
+
+- Rails 8 compatibility: field_error_proc override, monkey-patch checks, form_with API alignment
+- Added BulmaFormBuilder::Dsl for form object metadata and accessors
+- Added Bulma file field support
+- Legacy model support preserved
+
 ## 0.4.3
 
 - Support Multiple select (#15)
