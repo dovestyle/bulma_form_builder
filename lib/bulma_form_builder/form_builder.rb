@@ -24,6 +24,7 @@ module BulmaFormBuilder
     include BulmaFormBuilder::Inputs::PasswordField
     include BulmaFormBuilder::Inputs::Select
     include BulmaFormBuilder::Inputs::TextField
+    include BulmaFormBuilder::Inputs::FileField
     include BulmaFormBuilder::Inputs::TextArea
     include BulmaFormBuilder::Inputs::CheckBox
     include BulmaFormBuilder::Inputs::CollectionCheckBoxes
